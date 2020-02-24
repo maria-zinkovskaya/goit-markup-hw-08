@@ -73,7 +73,7 @@ html {
 }
 
 .store-info__phone::before {
-  content: url(../Images/phone.png);
+  content: url(../images/phone.png);
   padding-right: 8px;
 }
 
@@ -89,7 +89,7 @@ html {
 }
 
 .store-info__mail::before {
-  content: url(../Images/letter.png);
+  content: url(../images/letter.png);
   margin-right: 8px;
 }
 
@@ -165,7 +165,7 @@ html {
 /*Banner*/
 .banner {
   height: 600px;
-  background-image: url(../Images/girls.jpg);
+  background-image: url(../images/girls.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -278,19 +278,19 @@ html {
   background-repeat: no-repeat;
 }
 .about-list__items--setting::before {
-  background-image: url(../Images/setting.png);
+  background-image: url(../images/setting.png);
 }
 
 .about-list__items--moneyback::before {
-  background-image: url(../Images/moneyback.png);
+  background-image: url(../images/moneyback.png);
 }
 
 .about-list__items--worldwide::before {
-  background-image: url(../Images/worldwide.png);
+  background-image: url(../images/worldwide.png);
 }
 
 .about-list__items--compass::before {
-  background-image: url(../Images/compass.png);
+  background-image: url(../images/compass.png);
 }
 
 .about-list__text {
@@ -325,7 +325,7 @@ html {
 }
 
 .section-title.green-line::after {
-  content: url(../Images/greenline.png);
+  content: url(../images/greenline.png);
   display: flex;
   justify-content: center;
   padding-top: 28px;
@@ -444,22 +444,22 @@ html {
 }
 
 .interactive__button--heart::before {
-  background-image: url(../Images/heart.png);
+  background-image: url(../images/heart.png);
   background-position: center;
 }
 
 .interactive__button--arrows::before {
-  background-image: url(../Images/arrows.png);
+  background-image: url(../images/arrows.png);
   background-position: center;
 }
 
 .interactive__button--clock::before {
-  background-image: url(../Images/clock.png);
+  background-image: url(../images/clock.png);
   background-position: center;
 }
 
 .interactive__button--cart::before {
-  background-image: url(../Images/cart.png);
+  background-image: url(../images/cart.png);
   background-position: center;
 }
 
@@ -551,7 +551,7 @@ html {
 }
 
 .news-list__header.small-line::after {
-  content: url(../Images/smallgreenline.png);
+  content: url(../images/smallgreenline.png);
 }
 
 .news-list__description {
@@ -593,14 +593,14 @@ html {
 .site-footer {
   margin: 0;
   padding: 0;
-  background-image: url(../Images/footer-bg.png);
+  background-image: url(../images/footer-bg.png);
   background-size: cover;
   padding-top: 100px;
   padding-bottom: 134px;
 }
 
 .section-title.white-line::after {
-  content: url(../Images/whiteline.png);
+  content: url(../images/whiteline.png);
   display: flex;
   justify-content: center;
   padding-top: 28px;
@@ -644,7 +644,7 @@ html {
   width: 90px;
   height: 54px;
   background-color: #1abc9c;
-  background-image: url(../Images/button4.png);
+  background-image: url(../images/button4.png);
   background-repeat: no-repeat;
   background-position: center;
   border-radius: 0px 4px 4px 0px;
